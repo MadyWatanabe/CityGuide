@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Art Institute of Chicago",
+      "address": "111 S Michigan Ave",
+      "email": "https://www.artic.edu",
+      "urlTag":"artic.edu"
+    },
+    {
+      "name": "Magnificent Mile",
+      "address": "625 North Michigan Ave",
+      "email": "https://www.themagnificentmile.com",
+      "urlTag":"themagnificentmile.com"
+    },
+    {
+      "name": "Willis Tower",
+      "address": "233 S Wacker Dr",
+      "email": "https://www.willistower.com",
+      "urlTag":"willistower.com"
+    },
+    {
+      "name": "Navy Pier",
+      "address": "600 E Grand Ave",
+      "email": "https://navypier.org",
+      "urlTag":"navypier.org"
+    },
+    {
+      "name": "Water Tower",
+      "address": "806 Michigan Ave",
+      "email": "https://www.chicago.gov/city/en/depts/dca/supp_info/city_gallery_in_thehistoricwatertower.html",
+      "urlTag":"chicago.gov"
+    }
+  ]
